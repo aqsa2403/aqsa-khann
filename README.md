@@ -1,10 +1,7 @@
 <!-- ===== PROFILE HEADER ===== -->
-<h1 align="center">✨ Aqsa Khan ✨</h1>
-
-<h3 align="center">
-Frontend / Full Stack Developer <br/>
-Web • UI/UX • Creative Design
-</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aqsa+Khan+%E2%9C%A8;Frontend+%26+Full+Stack+Developer;UI%2FUX+%26+Creative+Designer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqsa2403E&label=Profile%20Views&color=ff69b4&style=flat" />
@@ -17,7 +14,8 @@ Web • UI/UX • Creative Design
 - 💻 Frontend & Full Stack Developer  
 - 🎨 UI/UX Designer (Figma & Illustrator)  
 - 🚀 Building modern, responsive web experiences  
-- 🌱 Learning advanced backend & databases  
+- 🌱 Learning advanced backend & database
+- reachme aqsaakhan2244@gmail.com
 
 ---
 
@@ -31,6 +29,8 @@ Web • UI/UX • Creative Design
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin)
 
 ### 🎨 Design
 <p>
@@ -79,7 +79,7 @@ Web • UI/UX • Creative Design
 ---
 
 <!-- ===== QUOTE ===== -->
-<h3 align="center">💡 "Designing clean interfaces & building powerful web solutions" ✨</h3>
+<h3 align="center">💡 <i>"Transforming Ideas into Scalable Web & AI Solutions"</i> ✨</h3>
 
 ---
 
